@@ -1,0 +1,11 @@
+Aplikasi bp:
+
+3 Table :
+
+- table identifikasi :no,haritgl,nama,kelas,jenis masalah : pribadi,sosial,keluarga
+
+
+- table masalah siswa : hasil,verifikasi: tgl,uraian,hasil rekomendasi,sasaran mutu
+
+
+- table tindakan penanganan : nama,tindakan penanganan,hasil : ya,tidak

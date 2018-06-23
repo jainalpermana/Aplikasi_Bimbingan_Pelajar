@@ -1,0 +1,9 @@
+halaman kesatu :
+-memberikan curhatan ke gru bp dan diberikan radio button selesai atau belum apabila masalah yang sudah di kirmkan oleh guru bp.
+-siswa diperbolehkan curhatlewat textbox yang disediakan oleh bp,syaratnya adalah dengan mengisi nama,kelas,nis.
+-apabila sudah terkirim nanti akan di konfirmasi oleh guru bp yang sudah membacanya dan direkomendasikan harus bertemu agar masalah clear.
+
+halaman kedua :
+-masalah kedisiplinan yaitu guru bp bisa menginputkan masalah pada siswa yaitu telat,atribut,bermasalahlainya memakai radio button seperti masalahnya kecil,sedang,berat.
+
+admin : -semua guru bp/bk.
